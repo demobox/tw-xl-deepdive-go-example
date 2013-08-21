@@ -93,14 +93,14 @@ sleep 2
 
 Combining the Go deployment package and newly-provisioned environment in the workspace and using the "auto-map all" double-arrow should result in the following:
 
-![Result after auto-map all](http://i.imgur.com/exvehIc)
+![Result after auto-map all](http://i.imgur.com/exvehIc.png)
 
 For the first deployment of the two agents, we need to select the Go server that we will reference:
 
-![Choosing a Go server for an agent](http://i.imgur.com/IVVuDYp)
+![Choosing a Go server for an agent](http://i.imgur.com/IVVuDYp.png)
 
 As discussed, this is not strictly necessary and could be avoided - it's mainly intended as an example of including references to other items in the deployment model.
 
 ![Deployment plan complete](http://i.imgur.com/AgZ2gBu.png)
 
-![Go agent page](http://i.imgur.com/yekWo5Q)
+![Go agent page](http://i.imgur.com/yekWo5Q.png)
